@@ -1,0 +1,5 @@
+{
+  "name": "SwiftCart - Modern E-commerce",
+  "description": "A simple, lightweight, and responsive e-commerce storefront. It features a direct product page payment flow with a mock payment gateway and an admin dashboard to view transaction history.",
+  "requestFramePermissions": []
+}
